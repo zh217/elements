@@ -1,0 +1,7 @@
+\contentsline {section}{幾何原本提要}{2}
+\contentsline {section}{幾何原本序}{3}
+\contentsline {section}{卷一之首}{4}
+\contentsline {subsection}{界說三十六則}{4}
+\contentsline {subsection}{求作四則}{10}
+\contentsline {subsection}{公論十九則}{11}
+\contentsline {section}{卷一}{13}
